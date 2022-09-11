@@ -1,0 +1,87 @@
+@media (max-width: 768px) {
+  /*banner*/
+  .text {
+    top: 40%;
+    left: 30%;
+  }
+
+  /*nav-bar*/
+  .text-nav {
+    display: none;
+  }
+  #nav-bar a:link,
+  a:visited {
+    display: block;
+    padding: 10px;
+    border-left: none;
+    text-align: left;
+    font-size: 14px;
+  }
+
+  /*thông tin cá nhân*/
+  .container {
+    padding: 0 !important;
+  }
+  #target {
+    font-size: 16px;
+    padding-right: 50px;
+    padding-top: 0;
+  }
+  #personal-info {
+    font-size: 16px;
+    margin-bottom: 50px;
+  }
+  .section-title {
+    margin-top: 25px !important;
+  }
+
+  /*thông tin nghề nghiệp*/
+  .job-node {
+    font-size: 24px;
+  }
+  p {
+    font-size: 14px;
+  }
+
+  /*chứng chỉ- giải thưởng*/
+  .cer-content {
+    border-bottom: 1px solid #f76707;
+    padding-bottom: 20px;
+    font-size: 12px;
+  }
+
+  .cer-content2 {
+    border-left: 0;
+    border-bottom: 1px solid #f76707;
+    padding-bottom: 20px;
+  }
+  .cer-content3 {
+    border-bottom: 1px solid #f76707;
+    padding-bottom: 20px;
+    border-top: none;
+    margin-top: 0;
+  }
+  .section-title {
+    font-size: 24px;
+  }
+  h5 {
+    font-size: 1rem;
+  }
+
+  /*Dự án*/
+  .project-flex {
+    font-size: 12px;
+  }
+
+  /*footer*/
+  #footer a:link,
+  a:visited {
+    font-size: 12px;
+    margin-right: 15px;
+  }
+  .icon::before {
+    font-size: 60%;
+  }
+
+  /*phần 9*/
+}

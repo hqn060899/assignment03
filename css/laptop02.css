@@ -1,0 +1,55 @@
+p {
+  color: #343a40;
+  font-size: 16px;
+}
+.container {
+  background-color: #f1f3f5;
+  width: auto;
+  height: auto;
+}
+.icon-timeline {
+  background-color: #5c7cfa;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  color: #fff;
+  text-align: center;
+  border: 2px solid #ff922b;
+}
+
+.container-time {
+  display: grid;
+  grid-template-columns: 25% 75%;
+}
+
+h3 {
+  color: #4263eb;
+  border-bottom: 2px solid #adb5bd;
+  padding-bottom: 15px;
+}
+
+.goals {
+  border-bottom: 2px solid #e9ecef;
+}
+.border-dotted {
+  border-bottom: 2px dotted #495057;
+}
+.icon-goal {
+  width: 40px;
+  height: 40px;
+}
+
+.container-goal {
+  display: grid;
+  grid-template-columns: 20% 80%;
+}
+
+.container-team {
+  display: grid;
+  grid-template-columns: 30% 70%;
+}
+
+.icon {
+  width: 40px;
+  height: 40px;
+}

@@ -1,0 +1,13 @@
+@media (max-width: 768px) {
+  .container {
+    padding: 40px 0px;
+  }
+
+  p {
+    font-size: 12px;
+  }
+  .container-team {
+    padding-top: 30px;
+    grid-row: 20px;
+  }
+}
